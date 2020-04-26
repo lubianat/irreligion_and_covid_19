@@ -1,0 +1,85 @@
+Albania; 2,364
+Argentina; 812
+Armenia; 5,875
+Australia; 18,993
+Austria; 24,834
+Azerbaijan; 12,172
+Bahrain; 68,351
+Bangladesh; 260
+Barbados; 4,257
+Belarus; 14,675
+Belgium; 17,147
+Bolivia; 475
+Bosnia and Herzegovina; 6,654
+Brazil; 2,496
+Bulgaria; 3,801
+Canada; 17,419
+Chile; 7,460
+Colombia; 1,482
+Costa Rica; 2,494
+Croatia; 7,584
+Czechia; 19,785
+Denmark; 24,386
+Ecuador; 2,015
+Egypt; 550
+Estonia; 34,841
+Finland; 14,059
+France; 6,823
+Germany; 24,927
+Greece; 5,702
+Grenada; 825
+Hungary; 6,030
+Iceland; 126,204
+India; 429
+Indonesia; 196
+Iran; 4,930
+Ireland; 23,433
+Israel; 35,222
+Italy; 28,293
+Jamaica; 556
+Japan; 1,169
+Kazakhstan; 5,514
+Kosovo; 3,415
+Kyrgyzstan; 6,906
+Latvia; 23,825
+Lithuania; 35,410
+Luxembourg; 60,344
+Malaysia; 3,714
+Malta; 48,712
+Mexico; 492
+Montenegro; 10,559
+Nepal; 1,756
+Netherlands; 10,801
+New Zealand; 23,132
+Nigeria; 49
+North Korea; 29
+North Macedonia; 5,715
+Norway; 28,900
+Pakistan; 517
+Palestine; 5,503
+Panama; 5,819
+Peru; 6,647
+Philippines; 805
+Poland; 7,268
+Portugal; 22,953
+Romania; 6,528
+Russia; 18,546
+Serbia; 6,004
+Singapore; 21,350
+Slovakia; 12,121
+Slovenia; 20,523
+South Africa; 2,739
+South Korea; 11,510
+Spain; 19,905
+Sweden; 9,150
+Switzerland; 26,948
+Taiwan[a]; 2,561
+Thailand; 726
+Trinidad and Tobago; 1,100
+Turkey; 10,445
+Ukraine; 1,720
+United Arab Emirates; 93,548
+United Kingdom[b]; 9,487
+United States; 15,811
+Uruguay; 4,563
+Venezuela[c]; 13,644
