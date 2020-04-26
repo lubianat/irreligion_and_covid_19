@@ -1,99 +1,100 @@
-Afghanistan (details); 
-Albania (details); 39%
-Argentina; 34%
-Armenia; 6%
-Australia (details); 63%
-Austria; 53%
-Azerbaijan (details); 64%
-Bangladesh (details); 19%
-Belarus; 
-Belgium (details); 64%
-Bosnia and Herzegovina; 22%
-Brazil (details); 17%
-Bulgaria (details); 39%
-Cameroon; 
-Canada (details); 57%
-Chile; 
-China (details); 90%
-Colombia; 14%
-DR Congo; 17%
-Croatia (details); 
-Cuba; 
-Czech Republic (details); 72%
-Denmark (details); 61%
-Dominican Republic; 
-Ecuador; 18%
-Estonia (details); 60%
-Fiji; 8%
-Finland (details); 55%
-France (details); 50%
-Georgia (details); 
-Germany (details); 60%
-Ghana (details); 1%
-Greece; 22%
-Hong Kong; 63%
-Hungary; 
-Iceland (details); 49%
-India (details); 5%
-Indonesia (details); 30%
-Iran (details); 20%
-Iraq (details); 34%
-Ireland (details); 56%
-Israel (details); 58%
-Italy (details); 26%
-Japan (details); 60%
-Kazakhstan (details); 
-Kenya (details); 
-Kosovo; 3%
-Kyrgyzstan; 
-Latvia; 52%
-Lebanon (details); 28%
-Lithuania; 40%
-Luxembourg; 
-Malaysia; 
-Malta; 
-Mexico (details); 36%
-Moldova; 
-Mongolia; 29%
-Morocco (details); 
-Netherlands (details); 
-New Zealand (details); 
-Nigeria (details); 2%
-North Korea; 
-North Macedonia; 11%
-Norway (details); 62%
-Pakistan (details); 6%
-Palestinian territories; 35%
-Panama; 13%
-Papua New Guinea; 5%
-Peru; 23%
-Philippines (details); 9%
-Poland (details); 10%
-Portugal; 38%
-Puerto Rico; 
-Romania (details); 9%
-Russia (details); 30%
-Saudi Arabia (details); 
-Serbia; 21%
-Singapore (details); 
-Slovakia; 
-Slovenia; 53%
-South Africa (details); 
-South Korea (details); 60%
-South Sudan; 
-Spain (details); 57%
-Sweden (details); 73%
-Switzerland (details); 
-Taiwan; 
-Tanzania; 
-Thailand; 2%
-Tunisia; 
-Turkey (details); 
-Uganda (details); 
-Ukraine; 42%
-United Kingdom (details); 69%
-United States (details); 39%
-Uruguay (details); 
-Uzbekistan; 
-Venezuela; 
-Vietnam; 63%
+;Country or region;WIN/GIA (2017)[7];WIN/GIA[3](2015);WIN/GIA[8][9](2012);Dentsu[10](2006);Zuckerman[5]
+0;Afghanistan (details);;9%;15%;;
+1;Albania (details);39%;;;;8%
+2;Argentina;34%;20%;26%;13%;4–8%
+3;Armenia;6%;5%;5%;;34%
+4;Australia (details);63%;58%;58%;;24–25%
+5;Austria;53%;54%;53%;12%;18–26%
+6;Azerbaijan (details);64%;54%;51%;;
+7;Bangladesh (details);19%;5%;;;
+8;Belarus;;;;48%;17%
+9;Belgium (details);64%;48%;34%;35%;42–43%
+10;Bosnia and Herzegovina;22%;32%;29%;;
+11;Brazil (details);17%;18%;14%;;
+12;Bulgaria (details);39%;39%;30%;30%;34–40%
+13;Cameroon;;;17%;;
+14;Canada (details);57%;53%;49%;26%;19–30%
+15;Chile;;;;34%;
+16;China (details);90%;90%;77%;93%;8–14%
+17;Colombia;14%;17%;15%;;
+18;DR Congo;17%;;;;
+19;Croatia (details);;;;13%;7%
+20;Cuba;;;;;7%
+21;Czech Republic (details);72%;75%;78%;64%;54–61%
+22;Denmark (details);61%;52%;;10%;43–80%
+23;Dominican Republic;;;;;7%
+24;Ecuador;18%;28%;29%;;
+25;Estonia (details);60%;;;76%;49%
+26;Fiji;8%;7%;6%;;
+27;Finland (details);55%;42%;44%;12%;28–60%
+28;France (details);50%;53%;63%;43%;43–54%
+29;Georgia (details);;7%;13%;;
+30;Germany (details);60%;59%;48%;25%;41–49%
+31;Ghana (details);1%;;2%;;
+32;Greece;22%;21%;;4%;16%
+33;Hong Kong;63%;70%;60%;;
+34;Hungary;;;;43%;32–46%
+35;Iceland (details);49%;44%;41%;4%;16–23%
+36;India (details);5%;23%;16%;7%;9.11%
+37;Indonesia (details);30%;15%;;;
+38;Iran (details);20%;;;1%;
+39;Iraq (details);34%;;9%;;
+40;Ireland (details);56%;51%;54%;7%;
+41;Israel (details);58%;65%;;;15–37%
+42;Italy (details);26%;24%;23%;18%;6–15%
+43;Japan (details);60%;62%;62%;52%;64–65%
+44;Kazakhstan (details);;;;;11–12%
+45;Kenya (details);;9%;11%;;
+46;Kosovo;3%;8%;;;
+47;Kyrgyzstan;;;;;7%
+48;Latvia;52%;50%;;41%;20–29%
+49;Lebanon (details);28%;18%;35%;;
+50;Lithuania;40%;;23%;19%;13%
+51;Luxembourg;;;;30%;
+52;Malaysia;;23%;13%;;
+53;Malta;;;;1%;
+54;Mexico (details);36%;28%;;;
+55;Moldova;;;10%;;
+56;Mongolia;29%;;;;9%
+57;Morocco (details);;5%;;;
+58;Netherlands (details);;66%;56%;55%;39–44%
+59;New Zealand (details);;;;;20–22%
+60;Nigeria (details);2%;16%;5%;1%;
+61;North Korea;;;;;15%
+62;North Macedonia;11%;10%;9%;;
+63;Norway (details);62%;;;;31–72%
+64;Pakistan (details);6%;11%;10%;;
+65;Palestinian territories;35%;19%;33%;;
+66;Panama;13%;;;;
+67;Papua New Guinea;5%;4%;;;
+68;Peru;23%;13%;11%;5%;
+69;Philippines (details);9%;22%;;11%;
+70;Poland (details);10%;12%;14%;5%;
+71;Portugal;38%;37%;;11%;4–9%
+72;Puerto Rico;;;;11%;
+73;Romania (details);9%;17%;7%;2%;
+74;Russia (details);30%;23%;32%;48%;24–48%
+75;Saudi Arabia (details);;;24%;;
+76;Serbia;21%;21%;19%;;
+77;Singapore (details);;;;;13%
+78;Slovakia;;;;23%;10–28%
+79;Slovenia;53%;;;30%;35–38%
+80;South Africa (details);;;32%;11%;
+81;South Korea (details);60%;55%;46%;37%;30–52%
+82;South Sudan;;;16%;;
+83;Spain (details);57%;55%;47%;16%;15–24%
+84;Sweden (details);73%;76%;58%;25%;46–85%
+85;Switzerland (details);;58%;47%;;17–27%
+86;Taiwan;;;;;24%
+87;Tanzania;;;;2%;
+88;Thailand;2%;2%;;;
+89;Tunisia;;;33%;;
+90;Turkey (details);;15%;75%;3%;
+91;Uganda (details);;;;1%;
+92;Ukraine;42%;24%;23%;42%;20%
+93;United Kingdom (details);69%;66%;;;31–44%
+94;United States (details);39%;39%;35%;20%;3–9%
+95;Uruguay (details);;;;;12%
+96;Uzbekistan;;;18%;;
+97;Venezuela;;2%;;27%;
+98;Vietnam;63%;54%;65%;46%;81%
